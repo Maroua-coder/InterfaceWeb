@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <title>Interface Web de Maroua</title>
+</head>
+<body>
+  <h1>Bienvenue sur mon interface web !</h1>
+  <p>Ce site est hébergé avec GitHub Pages.</p>
+</body>
+</html>
